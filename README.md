@@ -1,5 +1,4 @@
-<head> 
-<title> Bratwurst Hash</title>
+
 </head>
 <body>
 <h1>Bratwurst Hash Recipe</h1>
