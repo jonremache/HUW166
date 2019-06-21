@@ -5,4 +5,4 @@
 </head>
 <body>
 <h1>Bratwurst Hash Recipe</h1>
-<img src="images/food.jpg" alt="food">
+<img src="jonremache/food.jpg" alt="food">
