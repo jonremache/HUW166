@@ -1,5 +1,3 @@
-
-
 <DOCTYPE! html>
 <head> <title> Bratwurst Hash</title>
 </head>
