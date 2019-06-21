@@ -1,0 +1,25 @@
+body 
+{background-color:#A82034;
+color: #000000; 
+font-family:arial;
+}
+
+h1
+{background-color:#cccccc;
+color:#f4425c;
+line-height: 200%;
+font-family:Times New Roman";
+}
+a
+{background-color:#A82034;
+color:#f4425c;
+font-family:arial;}
+p
+{color:#000000;
+font-size:1em;
+}
+
+ul
+{color:#000000;
+font-weight:bold;
+}
