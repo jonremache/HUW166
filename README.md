@@ -1,5 +1,4 @@
-<head>
-</title>External Style Sheet</title>
+
 <head>
 <body>
  <link rel="food" href="food.css">
