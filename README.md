@@ -1,7 +1,8 @@
-
-</head>
+<head>
+</title>External Style Sheet</title>
+<head>
 <body>
-  <link rel="food" href="food.css">
+ <link rel="food" href="food.css">
 <h1>Bratwurst Hash Recipe</h1>
 <img src="food.jpg" alt="food" height="600"width="625">
   <h2>Ingredients</h2> </br>
