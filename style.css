@@ -1,25 +1,21 @@
-body 
-{background-color:#A82034;
-color: #000000; 
-font-family:arial;
+form {
+background-color: DodgerBlue;
+font-family: Arial, sans-serif;
+padding: 10px;
 }
+label {
+float: center;
+width: 100px;
+clear: center;
+text-align: right;
+padding-right: 10px;
+marging-top: 10px;
+}
+input, textarea { margin-top: 10px;
+display: block;}
+#mySubmit { margin-left: 100px; }
 
-h1
-{background-color:#cccccc;
-color:#f4425c;
-line-height: 200%;
-font-family:Times New Roman";
-}
-a
-{background-color:#A82034;
-color:#f4425c;
-font-family:arial;}
-p
-{color:#000000;
-font-size:1em;
-}
-
-ul
-{color:#000000;
-font-weight:bold;
+#sun {float:right;
+margin: 0 0 5px 5px;
+border: 10px solid #000000
 }
